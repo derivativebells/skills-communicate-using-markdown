@@ -3,3 +3,7 @@
 ``` Golang
 statement := 'string'
 ```
+
+- [ ] Tun on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
